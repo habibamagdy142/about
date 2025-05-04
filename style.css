@@ -36,6 +36,7 @@ html{
 }
 .navbar ul li a:hover{
     background-color: #fdf7c0;
+    opacity: 0.8;
 
 }
 /* slider */
@@ -380,7 +381,7 @@ footer{
     opacity: 0.9;
     border-radius: 20%;
 }
-.socialIcons a :hover{
+.socialIcons a:hover{
     background-color: #111;
     transition: 0.5s;
 }
